@@ -1,2 +1,14 @@
 # fixture-jiangnan-guide
-HTML page archive and documentation
+
+自动生成页面存放处
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
